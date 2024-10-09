@@ -22,3 +22,15 @@ La communauté autour de **Next.js** est plus active que celle d'autres framewor
 | Next.js GitHub | [github.com/vercel/next.js](https://github.com/vercel/next.js) | Le dépôt GitHub officiel de Next.js, où sont publiées toutes les mises à jour du projet et les discussions techniques. |
 |Documentation de Next.js|[nextjs.org/docs](https://nextjs.org/docs)|La documentation de Next.js qui est donc tenu à jour|
 |Blog de Next.js|[nextjs.org/blog](https://nextjs.org/blog)|La blogde Next.js qui aussi tenu à jour|
+
+Quel outil ai-je utilisé pour faire ma veile ?
+
+Pour mener à bien ma veille, j'ai utilisé un outil proposé par Google, "Google Alert" qui permet de mettre des alertes sur certain sujet pour être mis au courant lorsque de nouveau sujet sortent par rapport à notre sujet chosis.
+J'ai ajouté comme alerte deux mots clés.
+
+![Image Google Alert](https://github.com/user-attachments/assets/97671a2c-02c9-42fe-a23f-ecb1d1aa49f2)
+
+| Alerte | Justification |
+|-------|-------|
+|Next.js | Pour être notifié de tout les nouveaux articles ou publication autour de Next.js|
+|React JS | Etant donné que Next.js repose sur la libraire React, j'ai trouvé important d'être tenu au courant des nouveautées de React car Next risque sois de les implémenter sois de s'en inspirer|
