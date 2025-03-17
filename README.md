@@ -31,7 +31,7 @@ La communauté autour de **Next.js** est plus active que celle d'autres framewor
 
 Pour mener à bien ma veille, j'ai utilisé un outil proposé par Google, "Google Alert" qui permet de mettre des alertes sur certain sujet pour être mis au courant lorsque de nouveau sujet sortent par rapport à notre sujet chosis.
 J'ai ajouté comme alerte deux mots clés.
-
+[Google Alert](https://www.google.com/alerts)
 ![Image Google Alert](https://github.com/user-attachments/assets/97671a2c-02c9-42fe-a23f-ecb1d1aa49f2)
 
 | Alerte | Justification |
@@ -39,7 +39,7 @@ J'ai ajouté comme alerte deux mots clés.
 |Next.js | Pour être notifié de tout les nouveaux articles ou publication autour de Next.js|
 |React JS | Etant donné que Next.js repose sur la libraire React, j'ai trouvé important d'être tenu au courant des nouveautées de React car Next risque sois de les implémenter sois de s'en inspirer|
 
-## J'ai aussi utiliser Youtube en suivant des chaînes de Développeur Français et Anglais par rapport à Next.js
+### Utilisation de YouTube pour suivre des chaînes de développeurs sur Next.js
 
 | Chaîne YouTube | Justification |
 |-----------------|---------------|
@@ -47,3 +47,28 @@ J'ai ajouté comme alerte deux mots clés.
 | [Codevolution](https://www.youtube.com/c/Codevolution) | Série de tutoriel sur les fonctionnalités de Next.js avec des exemples pratiques |
 | [Melvynx](https://www.youtube.com/@melvynxdev) | Youtubeur Français qui propose des tutoriels sur l'univers du Javascript et notamment sur les fonctionnalités peu connues de Next.js |
 | [AK Dev](https://www.youtube.com/watch?v=s6wy7nJOmis&list=PL5dpzLb9u7J3IBXZ0NmRI1hq9zEbXsCQH) | Youtubeur Français qui à mis à disposition une playlist de tutoriel autour de Next.js |
+
+### Thread Reddit autour de Next.js
+
+| Thread Reddit | Justification |
+|-----------------|---------------|
+| [Reddit Next.js](https://www.reddit.com/r/nextjs/) | Communauté Reddit dédiée à Next.js |
+| [Reddit React](https://www.reddit.com/r/react/) | Communauté Reddit dédiée à React |
+| [Reddit ReactJS](https://www.reddit.com/r/reactjs/) | Autre communauté Reddit dédiée à ReactJS encore plus populaire|
+| [Reddit JavaScript](https://www.reddit.com/r/javascript/) | Communauté Reddit dédiée au langage JavaScript |
+
+### Blogs techniques et forums
+
+| Source | Lien | Justification |
+|--------|------|---------------|
+| Dev.to - tag Next.js | [dev.to/t/nextjs](https://dev.to/t/nextjs) | Plateforme de blog technique très active où les développeurs partagent leurs expériences, tutoriels et bonnes pratiques. Les articles sont souvent plus accessibles que la documentation officielle |
+| Medium - Next.js | [medium.com/tag/nextjs](https://medium.com/tag/nextjs) | Articles approfondis et retours d'expérience de développeurs. Beaucoup d'articles sur des cas d'usage spécifiques et des solutions à des problèmes complexes |
+| Hashnode - Next.js | [hashnode.com/n/nextjs](https://hashnode.com/n/nextjs) | Plateforme de blog technique orientée développeur avec une forte communauté Next.js. Les articles sont souvent très détaillés et incluent des exemples de code |
+| Stack Overflow | [stackoverflow.com/questions/tagged/next.js](https://stackoverflow.com/questions/tagged/next.js) | Forum technique incontournable où les développeurs s'entraident. Excellente source pour trouver des solutions à des problèmes spécifiques. La communauté Next.js y est très active avec plus de 50 000 questions |
+
+### Communautés Discord
+
+| Source | Lien | Justification |
+|--------|------|---------------|
+| Discord Vercel | [discord.gg/vercel](https://discord.gg/vercel) | Serveur officiel de Vercel où vous pouvez interagir directement avec l'équipe de Next.js et d'autres développeurs.|
+| Discord Reactiflux | [discord.gg/reactiflux](https://discord.gg/reactiflux) | Plus grande communauté Discord autour de React et Next.js. Dispose de canaux dédiés pour poser des questions techniques et partager des ressources. Très actif avec plus de 170 000 membres |
